@@ -14,4 +14,4 @@ ERRORS Error on 'react-native start' , "error Invalid regular expression: "
 - Replace this line with: var sharedBlacklist = [ /node_modules[/\]react[/\]dist[/\]./, /website/node_modules/./, /heapCapture/bundle.js/, /./tests/./ ];
 save file and run npm start again!
 
-GUIDE: https://www.youtube.com/watch?v=U9T6YkEDkMo
+GUIDE: https://www.youtube.com/watch?v=sBws8MSXN7A
